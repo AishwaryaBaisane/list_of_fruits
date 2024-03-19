@@ -29,11 +29,11 @@ class MyApp extends StatelessWidget {
         //
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.white
         ),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: ' 🛍️ List of Fruits'),
+      home: const MyHomePage(title: ' 🛍️ List of Fruits' ),
     );
   }
 }
@@ -73,20 +73,25 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
 
-        // TRY THIS: Try changing the color here to a specific color (to
-        // Colors.amber, perhaps?) and trigger a hot reload to see the AppBar
-        // change color while the other colors stay the same.
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),
+
+        title: const Text( '                    🛍️ List of Fruits',style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold) ,),
+        backgroundColor : Colors.teal,
+
       ),
       body:const  Center(
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
         child: Text.rich(TextSpan(
           children: [
-            TextSpan(text : 'Apple',style: TextStyle(color: Colors.red)),
+            TextSpan(text : ' 🍎 Apple\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.red,letterSpacing: 3)),
+            TextSpan(text : ' 🍇 Greps\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.purpleAccent,letterSpacing: 3)),
+            TextSpan(text : ' 🍒 Cherry\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.purple,letterSpacing: 3)),
+            TextSpan(text : ' 🍓 Strawberry\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.pink,letterSpacing: 3)),
+            TextSpan(text : ' 🥭 Mango\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.amber,letterSpacing: 3)),
+            TextSpan(text : ' 🍍 Pineapple\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.green,letterSpacing: 3)),
+            TextSpan(text : ' 🍋 Lemon\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.amberAccent,letterSpacing: 3)),
+            TextSpan(text : ' 🍉 Watermelon\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.lightGreenAccent,letterSpacing: 3)),
+            TextSpan(text : ' 🥥 Coconut\n',style: TextStyle(fontWeight: FontWeight.bold,fontSize : 40,color: Colors.brown,letterSpacing: 3)),
           ]
         )
           // Column is also a layout widget. It takes a list of children and
