@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src ="![Screenshot_2024-03-19_134433-removebg-preview](https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/9d033f4a-f6ef-4378-86f4-84953db1a3b2)">
+<img src ="(https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/9d033f4a-f6ef-4378-86f4-84953db1a3b2)">
