@@ -16,6 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-
-
-         src = "![Screenshot_2024-03-19_134433-removebg-preview](https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/adc86857-22c8-4db3-ae38-f982c5b30f18)"
+  src = "![Screenshot_2024-03-19_134433-removebg-preview](https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/adc86857-22c8-4db3-ae38-f982c5b30f18)"
