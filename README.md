@@ -22,7 +22,5 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02 " height = 600>
   <img src = "https://github.com/AishwaryaBaisane/textrich1/assets/149373597/538b0ccc-1852-4896-97eb-f4ff05a76c6e" height = 600>
   <img src = "https://github.com/AishwaryaBaisane/red_and_white/assets/149373597/ad64057e-7820-4943-bfe5-271f4e80cf99" height =600>
-
-  ![Screenshot_2024-03-19_171529-removebg-preview](https://github.com/AishwaryaBaisane/red_and_white/assets/149373597/ad64057e-7820-4943-bfe5-271f4e80cf99)
   
 </p>
