@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <img src = "https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" height = 600>
+  <img src = "https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" height = 600 aling : center>
   <img src = "https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02 " height = 600>
   
   <img src = "https://github.com/AishwaryaBaisane/textrich1/assets/149373597/538b0ccc-1852-4896-97eb-f4ff05a76c6e" height = 600>
