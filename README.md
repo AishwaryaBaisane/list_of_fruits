@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 
+
 <p align ="center">
  <img src = "https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02 " width = 30% height = 40%>
 </p>
