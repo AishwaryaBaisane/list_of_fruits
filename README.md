@@ -17,12 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
                                         
 ![Screenshot_2024-03-19_134433-removebg-preview](https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9)
-
-
-
 ![Screenshot_2024-03-22_165621-removebg-preview](https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02)
-
-
 ![Screenshot_2024-03-22_165412-removebg-preview](https://github.com/AishwaryaBaisane/textrich1/assets/149373597/538b0ccc-1852-4896-97eb-f4ff05a76c6e)
-
 ![Screenshot_2024-03-19_171529-removebg-preview](https://github.com/AishwaryaBaisane/red_and_white/assets/149373597/ad64057e-7820-4943-bfe5-271f4e80cf99)
