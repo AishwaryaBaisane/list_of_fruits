@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<p>
-  <img src = "https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" height = 600 align : right>
+<p align = "center>
+  <img src = "https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" height = 600>
 
   
 </p>
