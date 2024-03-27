@@ -18,24 +18,24 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p align = "center">
-  <img src ="https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" width=30% height=40%>
+  <img src ="https://github.com/AishwaryaBaisane/list_of_fruits/assets/149373597/95890b97-59e0-4f39-9178-1936b72538a9" width=32% height=42%>
  
 </p>
 
 
 
 <p align ="center">
- <img src = "https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02 " width = 30% height = 40%>
+ <img src = "https://github.com/AishwaryaBaisane/rich_text/assets/149373597/c3d3b702-76aa-41cd-b441-6b21d88e5e02 " width = 32% height = 42%>
 </p>
 
 
 <p align ="center">
-  <img src = "https://github.com/AishwaryaBaisane/textrich1/assets/149373597/538b0ccc-1852-4896-97eb-f4ff05a76c6e"  width = 30% height = 40%>
+  <img src = "https://github.com/AishwaryaBaisane/textrich1/assets/149373597/538b0ccc-1852-4896-97eb-f4ff05a76c6e"  width = 32% height = 42%>
 </p>
 
 
 <p align ="center">
-  <img src = "https://github.com/AishwaryaBaisane/red_and_white/assets/149373597/ad64057e-7820-4943-bfe5-271f4e80cf99" width = 30% height = 40%>
+  <img src = "https://github.com/AishwaryaBaisane/red_and_white/assets/149373597/ad64057e-7820-4943-bfe5-271f4e80cf99" width = 32% height = 42%>
 </p>
 
   
